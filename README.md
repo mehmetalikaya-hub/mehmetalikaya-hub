@@ -6,5 +6,5 @@ I am currently working as a Business Intelligence Consultant.
 <p>
 
 
-- :dart: I’m currently learning SQL, Python, Data Visualization and Database Management
+- :dart: I’m learning SQL, Python, Database Management and ERP systems. 
 - :email: kmehmetali173@gmail.com
