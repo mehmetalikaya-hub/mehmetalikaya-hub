@@ -6,5 +6,5 @@ I am currently working as a Business Intelligence Consultant.
 <p>
 
 
-- :dart: I’m learning SQL, Python, Database Management and ERP systems. 
+- :dart: I’m learning SQL, Python for Data Science, Database Management, and ERP systems. 
 - :email: mehmetalikayacanada@gmail.com
